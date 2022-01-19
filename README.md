@@ -13,7 +13,7 @@ _ => Wrong letter.
 
 ex. 
 
-if the answe was "ENTRY",
+if the answer was "ENTRY",
 and the user guessed "TREAT",
 then the analasys would look like this: "~ ~ ~ _ _"
 
