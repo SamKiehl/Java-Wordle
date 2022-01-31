@@ -51,12 +51,4 @@ public class Wordle{
             System.out.println("You lose! You could not guess the word \"" + ANSWER + "\" in " + guesses + " guesses.");
         }
     }
-    
-    public static String reverse(String s){
-        String output = "";
-        for(int i = s.length(); i >= 0; i--){
-            output += s.charAt(i);
-        }
-        return output;
-    }
 }
